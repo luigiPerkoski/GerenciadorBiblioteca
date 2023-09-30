@@ -2,6 +2,10 @@
 
 Este projeto é uma aplicação web desenvolvida em ASP.NET Core, utilizando C# como linguagem principal, MySQL como banco de dados e Bootstrap para a interface do usuário. A finalidade da aplicação é permitir o gerenciamento básico de empréstimos de livros, incluindo operações CRUD (Create, Read, Update, Delete).
 
+## Licença
+
+[![Licença](https://img.shields.io/badge/Licen%C3%A7a-MIT-blue)](https://github.com/luigiPerkoski/GerenciadorBiblioteca/blob/master/LICENSE)
+
 ## Funcionalidades
 
 - Listagem de todos os registros de empréstimos
@@ -25,9 +29,6 @@ Este projeto é uma aplicação web desenvolvida em ASP.NET Core, utilizando C# 
 - `wwwroot`: Contém os arquivos estáticos (CSS, JavaScript, etc.).
 - `Startup.cs`: Configurações de inicialização do projeto.
 
-## Licença
-
-[![Licença](https://img.shields.io/badge/Licen%C3%A7a-MIT-blue)]()
 
 ## Layout
 
